@@ -2,6 +2,8 @@
 
 This application visualizes the amount of events per time on a histogram. The data is provided in a CSV file.
 
+![Screenshot](http://milkmushrooms.com/RegsViewer/public/CSVviewer.png)
+
 ## Installation
 
 To install the application, please follow these steps:
